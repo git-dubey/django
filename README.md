@@ -1,2 +1,2 @@
 # django
-First django project
+First django learning project
